@@ -72,6 +72,15 @@ function App() {
       timeSpent: 0,
       isTracking: false,
     },
+    {
+      id: 5,
+      title: "Physics Problem Set",
+      date: "March 19, 2024",
+      type: "homework",
+      duration: 90, // 1.5 hours
+      timeSpent: 0,
+      isTracking: false,
+    },
   ]);
   
   const teachers: Teacher[] = [
